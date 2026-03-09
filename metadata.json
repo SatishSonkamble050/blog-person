@@ -1,0 +1,5 @@
+{
+  "name": "Modern Blog Platform",
+  "description": "A full-stack blog application with admin dashboard, analytics, and interactive reader features.",
+  "requestFramePermissions": []
+}
